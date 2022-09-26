@@ -6,9 +6,7 @@
 
 ### Hello, I'm Hunmo Yang!
 
-I am a Android developer from South Korea 🇰🇷. I am interested in Android and software architecture. I love reading, writing and communicating~! 
-
-If you want to contact me, please leave me a message!
+I am a Android developer from South Korea 🇰🇷. I am interested in Android and software architecture. I love reading, writing and communicating.
 
 ### ✨ Overview  
   
