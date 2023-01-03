@@ -3,15 +3,13 @@
 </div>
 
 ## Hi there 👋
-
-### Hello, I'm Hunmo Yang!
-
+<!-- ### Hello, I'm Hunmo Yang!
 I am a Software Engineer from South Korea 🇰🇷. I am interested in big data processing and software architecture. I love reading, writing and communicating.
-
+ -->
 ### ✨ Overview  
   
 - 📫 How to reach me: didgnsah7320@gmail.com
-- 🌱 I’m currently learning Android and Kotlin  
+- 🌱 I’m currently learning backend and software architecture
 - 📝 I regularly write articles on [my blog](https://ardor-dev.tistory.com/)  
   
 
