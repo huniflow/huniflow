@@ -6,7 +6,7 @@
 
 ### Hello, I'm Hunmo Yang!
 
-I am a Software Engineer from South Korea 🇰🇷. I am interested in Android and software architecture. I love reading, writing and communicating.
+I am a Software Engineer from South Korea 🇰🇷. I am interested in big data processing and software architecture. I love reading, writing and communicating.
 
 ### ✨ Overview  
   
