@@ -12,7 +12,7 @@ I am a Software Engineer from South Korea 🇰🇷. I am interested in big data 
 <!--  <img src="https://img.shields.io/badge/기술명-색깔?style=flat-square&logo=기술명&logoColor=white"/></a>&nbsp -->
 
 <div align="center">   
-  <h2>🛠️ Tech Stack 🛠️</h2>
+  <h2>🛠️ Tech Stack</h2>
   <h3>BackEnd</h3>
   <img src="https://img.shields.io/badge/Java-CD5050?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-369F36?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
@@ -31,7 +31,7 @@ I am a Software Engineer from South Korea 🇰🇷. I am interested in big data 
   <img src="https://img.shields.io/badge/Thymeleaf-288C28?style=flat-square&logo=thymeleaf&logoColor=white"/></a>&nbsp
 
 <br/><br/>
-  <h2></h2>
+  <h2>📫 Contact & Blog</h2>
   <a href="https://ardor-dev.tistory.com/">
   <img src="https://img.shields.io/badge/Tech Blog-63CC63?style=flat-square&logo=Blogger&logoColor=white"/>
   </a>
@@ -39,15 +39,15 @@ I am a Software Engineer from South Korea 🇰🇷. I am interested in big data 
   <img src="https://img.shields.io/badge/Gmail-FF8C0A?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
  <br/><br/><br/>
-  
-</div>
-
 
 ## Github Stats  
 
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardorhoon)](https://github.com/anuraghazra/github-readme-stats)
-</div>  
+![ArdorHoon's github stats](https://github-readme-stats.vercel.app/api?username=ArdorHoon&show_icons=true&theme=dark)
+</div>
+
+
+
+
 
 
 
