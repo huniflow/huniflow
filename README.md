@@ -3,57 +3,45 @@
 </div>
 
 ## Hi there 👋
-<!-- ### Hello, I'm Hunmo Yang!
+### Hello, I'm Hunmo Yang!
 I am a Software Engineer from South Korea 🇰🇷. I am interested in big data processing and software architecture. I love reading, writing and communicating.
- -->
-### ✨ Overview  
-  
-- 📫 How to reach me: didgnsah7320@gmail.com
-- 🌱 I’m currently learning backend and software architecture
-- 📝 I regularly write articles on [my blog](https://ardor-dev.tistory.com/)  
-  
 
 <br/>  
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<!--여기부터 스킬 셋 -->
+<!--  <img src="https://img.shields.io/badge/기술명-색깔?style=flat-square&logo=기술명&logoColor=white"/></a>&nbsp -->
 
+<div align="center">   
+  <h2>🛠️ Tech Stack 🛠️</h2>
+  <h3>BackEnd</h3>
+  <img src="https://img.shields.io/badge/Java-CD5050?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-369F36?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SpringBoot-369F36?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Hibernate-CC9966?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-5C6BC0?style=flat-square&logo=mySQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/H2-5a5a5a?style=flat-square"/></a>&nbsp   
+  <h3>Mobile</h3>
+  <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>&nbsp
+  <h3>FrontEnd</h3>
+  <img src="https://img.shields.io/badge/HTML-EA9A56?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/css-288CD2?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-FFA500?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Bootstrap-B750EA?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Thymeleaf-288C28?style=flat-square&logo=thymeleaf&logoColor=white"/></a>&nbsp
 
-
-### Mobile App   
-<div align="center">  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
+<br/><br/>
+  <h2></h2>
+  <a href="https://ardor-dev.tistory.com/">
+  <img src="https://img.shields.io/badge/Tech Blog-63CC63?style=flat-square&logo=Blogger&logoColor=white"/>
+  </a>
+  <a href="mailto:didgnsah7320@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF8C0A?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+ <br/><br/><br/>
+  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### ETC  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
 
 ## Github Stats  
 
