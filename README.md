@@ -1,14 +1,14 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ArdorHoon&fontSize=90&fontColor=3c3c3c)
+</br>
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=ArdorHoon&&style=flat-square" align="center" />
 </div>
+</br>
 
-<!-- ## Hi there 👋
-### Hello, I'm Hunmo Yang! -->
 I am a Software Engineer from South Korea 🇰🇷. I am interested in big data processing and software architecture. I love reading, writing and communicating.
 
-<br/>  
+</br>  
 
 <!--여기부터 스킬 셋 -->
 <!--  <img src="https://img.shields.io/badge/기술명-색깔?style=flat-square&logo=기술명&logoColor=white"/></a>&nbsp -->
