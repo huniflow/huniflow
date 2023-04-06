@@ -33,13 +33,14 @@ I am a Software Engineer from South Korea 🇰🇷. I am interested in big data 
   <img src="https://img.shields.io/badge/Thymeleaf-288C28?style=flat-square&logo=thymeleaf&logoColor=white"/></a>&nbsp
 
 <br/><br/>
-  <h2>📫 Contact & Blog</h2>
+  <h2>📫 Contact</h2>
   <a href="https://ardor-dev.tistory.com/">
   <img src="https://img.shields.io/badge/Tech Blog-63CC63?style=flat-square&logo=Blogger&logoColor=white"/>
   </a>
   <a href="mailto:didgnsah7320@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF8C0A?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
+<!--   (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yewon-kim-545004203)](https://www.linkedin.com/in/hunmo-yang-6111ab25b) -->
  <br/><br/><br/>
 
 ## 🚩 Github Stats  
