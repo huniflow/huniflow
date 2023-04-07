@@ -40,7 +40,10 @@ I am a Software Engineer from South Korea 🇰🇷. I am interested in big data 
   <a href="mailto:didgnsah7320@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF8C0A?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-<!--   (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yewon-kim-545004203)](https://www.linkedin.com/in/hunmo-yang-6111ab25b) -->
+    <a href="https://www.linkedin.com/in/hunmo-yang-6111ab25b">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
  <br/><br/><br/>
 
 ## 🚩 Github Stats  
