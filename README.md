@@ -22,9 +22,9 @@ I am a Software Engineer from South Korea 🇰🇷. I am interested in big data 
   <img src="https://img.shields.io/badge/Hibernate-CC9966?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-5C6BC0?style=flat-square&logo=mySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/H2-5a5a5a?style=flat-square"/></a>&nbsp   
-  <h3>Mobile</h3>
+<!--   <h3>Mobile</h3>
   <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>&nbsp -->
   <h3>FrontEnd</h3>
   <img src="https://img.shields.io/badge/HTML-EA9A56?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css-288CD2?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
