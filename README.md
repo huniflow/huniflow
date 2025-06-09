@@ -46,9 +46,7 @@ I am a Software Engineer from South Korea 🇰🇷. I am interested in big data 
 
  <br/><br/><br/>
 
-## 🚩 Github Stats  
 
-##![ArdorHoon's github stats](https://github-readme-stats.vercel.app/api?username=ArdorHoon&show_icons=true&theme=default)
 </div>
 
 
