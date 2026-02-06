@@ -6,7 +6,7 @@
 </div>
 </br>
 
-I am a Software Engineer from South Korea 🇰🇷. I am interested in big data processing and software architecture. I love reading, writing and communicating.
+I am a Product Maker from South Korea 🇰🇷. I am interested in big data processing and software architecture. I love reading, writing and communicating.
 
 </br>  
 
