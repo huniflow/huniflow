@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&fontColor=3c3c3c)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Have%20a%20good%20day!&textBg=false&reversal=false&fontColor=000000&fontSize=80)
 </br>
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=ArdorHoon&&style=flat-square" align="center" />
